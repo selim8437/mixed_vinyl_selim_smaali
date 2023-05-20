@@ -323,6 +323,9 @@
     "symfony/yaml": {
         "version": "v6.0.2"
     },
+    "twig/extra-bundle": {
+        "version": "v3.6.0"
+    },
     "twig/twig": {
         "version": "v3.5.1"
     },
